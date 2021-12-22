@@ -1,0 +1,32 @@
+[
+    {
+        "vacancy_id": 1,
+        "position_name": "Python Dev",
+        "vacancy_link": "xxxx",
+        "company_id": 1,
+        "salary": 4000000,
+        "skills": "Pandas",
+        "max_experience": 4,
+        "min_experience": 0
+    },
+    {
+        "vacancy_id": 2,
+        "position_name": "Node Dev",
+        "vacancy_link": "xxxx",
+        "company_id": 1,
+        "salary": 10000000,
+        "skills": "Express. Auth0",
+        "max_experience": 20,
+        "min_experience": 4
+    },
+    {
+        "vacancy_id": 1,
+        "position_name": "HR Senior Analyst",
+        "vacancy_link": "xxxx",
+        "company_id": 2,
+        "salary": 4000000,
+        "skills": "English",
+        "max_experience": 10,
+        "min_experience": 4
+    }
+]

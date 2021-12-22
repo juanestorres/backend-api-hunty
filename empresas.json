@@ -1,0 +1,26 @@
+[
+    {
+        "company_id": 1,
+        "company_name": "Hunty",
+        "link": "xxxxx",
+        "country": "Colombia",
+        "city": "Bogota",
+        "date_added": "2021-12-1",
+        "contact_first_name": "John",
+        "contact_last_name": "Appleseed",
+        "contact_phone_number": "999-999-999",
+        "contact_email": "hola@workijobs.com"
+    },
+    {
+        "company_id": 1,
+        "company_name": "Worki",
+        "link": "xxxxx",
+        "country": "Colombia",
+        "city": "Bogota",
+        "date_added": "2020-12-15",
+        "contact_first_name": "PePito",
+        "contact_last_name": "Perez",
+        "contact_phone_number": "999-999-999",
+        "contact_email": "hola@workijobs.com"
+    }
+]
